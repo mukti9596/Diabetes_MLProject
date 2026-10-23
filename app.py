@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import pickle
 
 st.set_page_config(page_title="Diabetes Prediction App", page_icon=":guardsman:", layout="wide")
